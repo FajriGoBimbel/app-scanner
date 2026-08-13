@@ -19,7 +19,7 @@ class AppTheme {
       primarySwatch: Colors.deepPurple,
       primaryColor: primaryColor,
       scaffoldBackgroundColor: backgroundColor,
-      fontFamily: 'Poppins',
+      fontFamily: null,
       colorScheme: const ColorScheme.dark(
         primary: primaryColor,
         secondary: primaryLight,
